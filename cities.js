@@ -1,7 +1,7 @@
 const newYorkCities = [
   "Mongaup Valley", "Monroe", "Monsey", "Montauk", "Montgomery",
   "Monticello", "Montour Falls", "Montrose", "Moravia", "Mount Kisco",
-  "Mount Sinai", "Mount Upton", "Mount Vernon", "Mount Vision", "N/A",
+  "Mount Sinai", "Mount Upton", "Mount Vernon", "Mount Vision",
   "Nanuet", "Napanoch", "Naples", "Narrowsburg", "Nassau",
   "Nedrow", "Nesconset", "Neversink", "New City", "New Hartford",
   "New Hyde Park", "New Lebanon", "New Paltz", "New Rochelle", "New Windsor",
